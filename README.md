@@ -1,4 +1,4 @@
-# <div align="center">Hi, I'm Asrith! <img src="https://media1.tenor.com/m/FtCg0-fXb0IAAAAd/ippo-eyes-ippo-makunouchi.gif" width="25"/></div>
+# <div align="center">Hi, I'm Asrith! <img src="https://media1.tenor.com/m/FtCg0-fXb0IAAAAd/ippo-eyes-ippo-makunouchi.gif" width="30" height="32"/></div>
 
 
 
