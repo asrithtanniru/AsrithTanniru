@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://asrith-me.vercel.app/">portfolio</a> .
+    <a href="https://asrithtanniru.dev/">portfolio</a> .
     <a href="https://www.linkedin.com/in/asrithtanniru/">linkedin</a> .
     <a href="mailto:asrithtanniru@gmail.com">email</a> <img src="https://media.giphy.com/media/4QFArMJ28mCdlcsRyq/giphy.gif" width="40">
   </samp>
